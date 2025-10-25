@@ -1,0 +1,5 @@
+{
+  "name": "Festival Banner Generator",
+  "description": "An application that generates beautiful, customized festival banners for a jewelry store using the Gemini API. Users can specify the festival and promotional offers to create a unique banner.",
+  "requestFramePermissions": []
+}
